@@ -31,3 +31,6 @@ Waveshare 7inch Capacitive Touch Screen LCD (H) 1024×600 HDMI, IPS 64,99€
 Ενεργά ηχεία Creative Pebble Speakers For PC, 4.4 Watt, USB2.0, Black  19,90€
 
 # Επιπλέον Πληροφορίες
+Δείτε την παρουσίαση του έργου μας: https://youtu.be/98WUD9jNMd4
+
+Θα βρείτε τη σελίδα του έργου μας: https://openedtech.ellak.gr/robotics2024/robotakia-ai-voithos-taxis/
